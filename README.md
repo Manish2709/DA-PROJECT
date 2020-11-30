@@ -12,7 +12,12 @@ We have used the three models to compare the results between each other
   1) KNN
   2) Naive Bayes
   3) Decison Tree
-  
+
+# SOURCE CODE
+There are two files in this repository
+  1) EDA.ipynb -  A jupyter notebook which contains all the EDA that we have done
+  2) DA-models.ipynb - A jupyter notebook which contains all the models implemented
+
 # STEPS TO RUN THE PROJECT
   1) Install Anaconda in your local system
   2) Open Jupyter Notebooks
